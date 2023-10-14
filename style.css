@@ -11,21 +11,3 @@ div{
     background-color:purple;
     color:orange;
 }
-
-.odd{
-    background-color: pink;
-    font-family: "Dejavu Sans", sans-serif;
-
-}
-#even{
-    color:blue;
-    font-size: 36px;
-}
-#even2{
-    background-color:lightgreen;
-    font-weight: bold;
-    font-size: 24px;
-}
-.odd.cooler{
-    font-size: 24px;
-}
